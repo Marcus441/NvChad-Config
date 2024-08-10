@@ -1,6 +1,6 @@
 # My custom Neovim configuration
 
-run: `git clone https://github.com/NvChad/starter ~/.config/nvim && nvim`
+run: `git clone https://github.com/Marcus441/NvChad-Config ~/.config/nvim && nvim`
 `:MasonInstallAll`
 
 ### Dependencies:
