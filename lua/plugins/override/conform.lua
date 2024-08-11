@@ -15,6 +15,7 @@ return {
       scss = { "prettier" },
       go = { "gofmt" },
       html = { "prettier" },
+      java = { "prettier" },
       javascript = { "prettier" },
       javascriptreact = { "prettier" },
       json = { "biome" },
