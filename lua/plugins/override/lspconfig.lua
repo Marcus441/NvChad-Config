@@ -19,6 +19,7 @@ return {
       "hls",
       "gopls",
       "jsonls",
+      "jdtls",
       "marksman",
       "ocamllsp",
       "pyright",
