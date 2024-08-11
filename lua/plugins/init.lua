@@ -3,6 +3,7 @@ return {
   { import = "plugins.spec.harpoon" },
   { import = "plugins.spec.vim-tmux-navigator" },
   { import = "plugins.spec.nvim-java" },
+  { import = "plugins.spec.ts-autotag" },
   { import = "plugins.override.mason" },
   { import = "plugins.override.nvim-treesitter" },
   { import = "plugins.override.lspconfig" },
