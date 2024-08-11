@@ -1,9 +1,9 @@
 return {
+  { import = "plugins.spec.autosession" },
+  { import = "plugins.spec.harpoon" },
+  { import = "plugins.spec.vim-tmux-navigator" },
   { import = "plugins.override.mason" },
   { import = "plugins.override.nvim-treesitter" },
   { import = "plugins.override.lspconfig" },
   { import = "plugins.override.conform" },
-  { import = "plugins.spec.autosession" },
-  { import = "plugins.spec.harpoon" },
-  { import = "plugins.spec.vim-tmux-navigator" },
 }
