@@ -16,6 +16,7 @@ return {
       "cssls",
       "eslint",
       "html",
+      "lemminx",
       "hls",
       "gopls",
       "jsonls",

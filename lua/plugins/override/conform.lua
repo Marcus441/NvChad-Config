@@ -13,6 +13,8 @@ return {
       bash = { "shfmt" },
       css = { "prettier" },
       scss = { "prettier" },
+      fxml = { "xmlformatter" },
+      xml = { "xmlformatter" },
       go = { "gofmt" },
       html = { "prettier" },
       java = { "google-java-format" },
