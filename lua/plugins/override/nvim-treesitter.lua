@@ -29,6 +29,7 @@ return {
       "vim",
       "vimdoc",
       "zig",
+      "xml",
     },
     auto_install = true,
     indent = { enable = true },
@@ -74,5 +75,7 @@ return {
       use_virtual_text = true,
       lint_events = { "BufWrite", "CursorHold" },
     },
+    -- Map .fxml files to XML
+    vim.treesitter.language.register("fxml", "xml"),
   },
 }
